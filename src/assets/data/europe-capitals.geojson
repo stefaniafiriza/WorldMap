@@ -1,0 +1,601 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [25.261688, 54.684947] },
+      "properties": {
+        "cartodb_id": 46,
+        "country": "Lituania",
+        "city": "Vilnius",
+        "created_at": "2015-05-26T11:08:51Z",
+        "updated_at": "2015-05-26T11:20:42Z",
+        "info" : "Cercetătorii lituanieni au contribuit la dezvoltarea energiei nucleare, iar centrala nucleară Ignalina a fost una dintre cele mai mari din Europa."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [21.4333, 42] },
+      "properties": {
+        "cartodb_id": 37,
+        "country": "Macedonia",
+        "city": "Skopje",
+        "created_at": "2015-05-26T11:03:46Z",
+        "updated_at": "2015-05-26T11:04:16Z",
+        "info" : "Astronomul macedonean Gjorge Zajkov a contribuit la descoperirea mai multor asteroizi și comete și a fost un promotor activ al astronomiei în țara sa natală."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.13, 49.61166] },
+      "properties": {
+        "cartodb_id": 22,
+        "country": "Luxembourg",
+        "city": "Luxembourg",
+        "created_at": "2015-05-26T09:31:58Z",
+        "updated_at": "2015-05-26T10:55:41Z",
+        "info" : "Luxembourg este una dintre cele mai bogate țări din lume și, de asemenea, este cunoscută pentru investițiile sale semnificative în cercetare spațială și tehnologie avansată."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.890444, 52.370197] },
+      "properties": {
+        "cartodb_id": 1,
+        "country": "Olanda",
+        "city": "Amsterdam",
+        "created_at": "2015-05-26T09:07:04Z",
+        "updated_at": "2015-05-26T09:11:22Z",
+        "info" : "Olanda este cunoscută pentru inovațiile sale în domeniul ingineriei hidraulice și pentru dezvoltarea sistemelor avansate de gestionare a apei, cum ar fi celebrele mori de vânt și lucrările din Delta Neței, care au avut un impact semnificativ asupra științei și tehnologiei hidrologice."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [1.5225, 42.5075] },
+      "properties": {
+        "cartodb_id": 2,
+        "country": "Andorra",
+        "city": "Andorra la Vella",
+        "created_at": "2015-05-26T09:11:33Z",
+        "updated_at": "2015-05-26T09:12:19Z",
+        "info" : "Andorra are una dintre cele mai mici rate de mortalitate infantilă din lume, ceea ce a atras atenția cercetătorilor în domeniul sănătății."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.71666, 40.383333] },
+      "properties": {
+        "cartodb_id": 23,
+        "country": "Spania",
+        "city": "Madrid",
+        "created_at": "2015-05-26T10:55:52Z",
+        "updated_at": "2015-05-26T10:56:20Z",
+        "info" : "<b>Q:</b>Care este contribuția științifică semnificativă a Spaniei în domeniul astronomiei?",
+        "answer" : "Spania a adus o contribuție semnificativă în domeniul astronomiei prin intermediul Observatorului Astronomic din Madrid și ca țară fondatoare a Observatorului European Austral (ESO). Aceste instituții au jucat un rol important în cercetarea și observațiile astronomice, oferind o mai bună înțelegere a fenomenelor cosmice și contribuind la dezvoltarea cunoștințelor noastre despre univers."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [32.86666, 39.93333] },
+      "properties": {
+        "cartodb_id": 3,
+        "country": "Turcia",
+        "city": "Ankara",
+        "created_at": "2015-05-26T09:13:46Z",
+        "updated_at": "2015-05-26T09:14:16Z",
+        "info" : "Un fapt interesant este că matematicianul turc Cahit Arf a făcut contribuții semnificative în teoria numerelor, iar 'Inegalitatea lui Arf' este folosită în demonstrarea unor probleme matematice importante."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [23.33333, 42.7] },
+      "properties": {
+        "cartodb_id": 38,
+        "country": "Bulgaria",
+        "city": "Sofia",
+        "created_at": "2015-05-26T11:04:21Z",
+        "updated_at": "2015-05-26T11:04:51Z",
+        "info" : "Cercetătorii belgieni au jucat un rol important în dezvoltarea cipului electronic, cu contribuții semnificative la dezvoltarea microprocesoarelor."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [27.566666, 53.9] },
+      "properties": {
+        "cartodb_id": 24,
+        "country": "Belarus",
+        "city": "Minsk",
+        "created_at": "2015-05-26T10:56:24Z",
+        "updated_at": "2015-05-26T10:56:51Z",
+        "info" : "Belarus a fost una dintre primele țări din lume care a introdus învățământul obligatoriu pentru toți copiii, încurajând astfel educația și cercetarea în știință."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [23.716666, 37.966666] },
+      "properties": {
+        "cartodb_id": 5,
+        "country": "Grecia",
+        "city": "Athens",
+        "created_at": "2015-05-26T09:17:21Z",
+        "updated_at": "2015-05-26T09:17:45Z",
+        "info" : "Matematicianul grec Euclid este considerat 'părintele geometriei' datorită lucrării sale fundamentale, 'Elementele', care a influențat matematica timp de milenii.<p><b>Ce alti matematicieni cunoasteti si ce descoperiri au avut?</b></p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [49.882222, 40.395278] },
+      "properties": {
+        "cartodb_id": 6,
+        "country": "Azerbaijan",
+        "city": "Baku",
+        "created_at": "2015-05-26T09:18:09Z",
+        "updated_at": "2015-05-26T09:18:41Z",
+        "info" : "Azerbaijaniul Aziz Sancar, laureat al Premiului Nobel pentru Chimie în 2015, a contribuit semnificativ la descifrarea procesului de reparare a ADN-ului, dezvăluind detalii esențiale despre mecanismele moleculare ale acestui proces."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.416666, 43.73333] },
+      "properties": {
+        "cartodb_id": 25,
+        "country": "Monaco",
+        "city": "Monaco",
+        "created_at": "2015-05-26T10:56:55Z",
+        "updated_at": "2015-05-26T10:57:26Z",
+        "info" : "Monaco, ca o țară mică, este recunoscută pentru cercetarea sa în domeniul biologiei marine, având un centru de cercetare marină de renume, Institutul Oceanografic din Monaco, care desfășoară studii importante asupra vieții marine și a impactului schimbărilor climatice asupra oceanelor."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.46666, 44.816666] },
+      "properties": {
+        "cartodb_id": 7,
+        "country": "Serbia",
+        "city": "Belgrade",
+        "created_at": "2015-05-26T09:20:08Z",
+        "updated_at": "2015-05-26T09:20:46Z",
+        "info" : "Matematicianul sârb Mihailo Petrović, cunoscut sub numele de 'Mika Alas',  a contribuit semnificativ la teoria ecuațiilor diferențiale și a dezvoltat conceptul de 'funcție Mika', care a avut aplicații importante în matematică și fizică."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.068611, 59.32944] },
+      "properties": {
+        "cartodb_id": 39,
+        "country": "Suedia",
+        "city": "Stockholm",
+        "created_at": "2015-05-26T11:04:53Z",
+        "updated_at": "2015-05-26T11:05:19Z",
+        "info" : "<b>Q:</b>Ce inventator suedez este cunoscut pentru dezvoltarea unei scări de măsurare a temperaturii care este acum utilizată pe scară largă în întreaga lume?",
+        "answer": "Fizicianul suedez Anders Celsius a inventat scara Celsius pentru măsurarea temperaturii, care este acum utilizată pe scară largă în întreaga lume."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.383333, 52.516666] },
+      "properties": {
+        "cartodb_id": 8,
+        "country": "Germania",
+        "city": "Berlin",
+        "created_at": "2015-05-26T09:20:49Z",
+        "updated_at": "2015-05-26T09:21:36Z",
+        "info" : "Germania este cunoscută pentru pionieratul în dezvoltarea medicinei și a chimiei, cu contribuții importante la dezvoltarea aspirinei și descoperirea radioului."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [37.616666, 55.75] },
+      "properties": {
+        "cartodb_id": 26,
+        "country": "Rusia",
+        "city": "Moscova",
+        "created_at": "2015-05-26T10:57:33Z",
+        "updated_at": "2015-05-26T10:58:00Z",
+        "info" : "<b>Q:</b>Cine a creat primul tabel periodic al elementelor chimice?",
+        "answer": "Primul tabel periodic al elementelor chimice a fost creat de către chimistul rus Dmitri Mendeleev în 1869."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.45, 46.95] },
+      "properties": {
+        "cartodb_id": 9,
+        "country": "Elvetia",
+        "city": "Bern",
+        "created_at": "2015-05-26T09:21:41Z",
+        "updated_at": "2015-05-26T09:22:10Z",
+        "info" : "<b>Q:</b>Cine a descoperit celebra teorie a relativitatii?",
+        "answer": "Fizicianul elvețian Albert Einstein a dezvoltat celebra teorie a relativității și a primit Premiul Nobel pentru Fizică în 1921."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [21.01666, 52.23333] },
+      "properties": {
+        "cartodb_id": 47,
+        "country": "Polonia",
+        "city": "Warsaw",
+        "created_at": "2015-05-26T11:09:21Z",
+        "updated_at": "2015-05-26T11:15:30Z",
+        "info" : "Matematicianul polonez Stanisław Ulam a dezvoltat conceptul de 'număr prim ulamian', care are aplicații în teoria numerelor și în criptografia modernă."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.109722, 48.143888] },
+      "properties": {
+        "cartodb_id": 10,
+        "country": "Slovacia",
+        "city": "Bratislava",
+        "created_at": "2015-05-26T09:22:14Z",
+        "updated_at": "2015-05-26T09:22:43Z",
+        "info" : "Astronomul slovac Milan Rastislav Štefánik a fost unul dintre cei care au contribuit la studierea eclipselor solare și la dezvoltarea metodelor fotografice pentru observarea și documentarea lor, având astfel un impact semnificativ în astronomie."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [33.36666, 35.16666] },
+      "properties": {
+        "cartodb_id": 27,
+        "country": "Cipru",
+        "city": "Nicosia",
+        "created_at": "2015-05-26T10:58:04Z",
+        "updated_at": "2015-05-26T10:58:44Z",
+        "info" : "În Cipru, cercetătorii studiază arheologia subacvatică și au descoperit numeroase vestigii subacvatice, inclusiv epave vechi de secole."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.35, 50.85] },
+      "properties": {
+        "cartodb_id": 11,
+        "country": "Belgia",
+        "city": "Brussels",
+        "created_at": "2015-05-26T09:22:47Z",
+        "updated_at": "2015-05-26T09:23:18Z",
+        "info" : "Cercetătorii belgieni au jucat un rol important în dezvoltarea chimiei organice și a izotopilor radioactivi."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [24.745278, 59.437222] },
+      "properties": {
+        "cartodb_id": 40,
+        "country": "Estonia",
+        "city": "Tallinn",
+        "created_at": "2015-05-26T11:05:22Z",
+        "updated_at": "2015-05-26T11:05:51Z",
+        "info" : " Estonia este cunoscută pentru dezvoltarea și implementarea cu succes a tehnologiei blockchain, având aplicații în domenii precum securitatea cibernetică și votul electronic."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [26.103888, 44.4325] },
+      "properties": {
+        "cartodb_id": 12,
+        "country": "Romania",
+        "city": "Bucharest",
+        "created_at": "2015-05-26T09:23:23Z",
+        "updated_at": "2015-05-26T09:23:50Z",
+        "info" : "<b>Q:</b>Cine a fost George Emil Palade și care a fost contribuția sa în domeniul științei?",
+        "answer": " George Emil Palade a fost un biolog și medic român care a primit Premiul Nobel pentru Fiziologie sau Medicină în 1974 pentru descoperirile sale legate de structura și funcțiile celulei, în special a aparatului Golgi."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.75, 59.95] },
+      "properties": {
+        "cartodb_id": 28,
+        "country": "Norvegia",
+        "city": "Oslo",
+        "created_at": "2015-05-26T10:58:49Z",
+        "updated_at": "2015-05-26T10:59:12Z",
+        "info" : "Norvegia găzduiește Banca Globală de Seme Svalbard, care are ca scop protejarea diversității genetice a plantelor alimentare ale lumii și asigurarea resurselor genetice în caz de catastrofe naturale sau provocări climatice, având un impact semnificativ asupra conservării biodiversității globale."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.3508, 48.8567] },
+      "properties": {
+        "cartodb_id": 29,
+        "country": "Franta",
+        "city": "Paris",
+        "created_at": "2015-05-26T10:59:15Z",
+        "updated_at": "2015-05-26T10:59:40Z",
+        "info" : "Franța a fost patria lui Marie Curie, câștigătoare a două Premii Nobel în fizică și chimie pentru cercetările sale privind radiația."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.050293, 47.494009] },
+      "properties": {
+        "cartodb_id": 13,
+        "country": "Ungaria",
+        "city": "Budapest",
+        "created_at": "2015-05-26T09:24:06Z",
+        "updated_at": "2015-05-26T09:26:35Z",
+        "info" : "Matematicianul ungar John von Neumann a contribuit la dezvoltarea informaticii și a arhitecturii computerelor."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [28.847351, 47.028014] },
+      "properties": {
+        "cartodb_id": 14,
+        "country": "Republica Moldova",
+        "city": "Chișinău",
+        "created_at": "2015-05-26T09:24:31Z",
+        "updated_at": "2015-05-26T09:27:14Z",
+        "info" : "<b>Q:</b>Cine este Gheorghe Paun si cum s-a facut cunoscut in lumea stiintei?",
+        "answer": "Gheorghe Păun, originar din Republica Moldova, este cunoscut pentru dezvoltarea limbajelor de calculare membrane, o teorie matematică inovatoare cu aplicații în biologie și informatică, inclusiv în modelarea reacțiilor chimice și a proceselor biologice."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [44.78333, 41.71666] },
+      "properties": {
+        "cartodb_id": 41,
+        "country": "Georgia",
+        "city": "Tbilisi",
+        "created_at": "2015-05-26T11:05:53Z",
+        "updated_at": "2015-05-26T11:06:32Z",
+        "info" : "Matematicianul georgian Andrei Kolmogorov a adus contribuții semnificative la dezvoltarea teoriei probabilităților, a topologiei și a ecuațiilor diferențiale, având un impact notabil asupra matematicii moderne."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.568333, 55.676111] },
+      "properties": {
+        "cartodb_id": 15,
+        "country": "Danemarca",
+        "city": "Copenhagen",
+        "created_at": "2015-05-26T09:27:48Z",
+        "updated_at": "2015-05-26T09:28:05Z",
+        "info" : "Fizicianul danez Niels Bohr a contribuit semnificativ la dezvoltarea teoriei cuantice și a modelului atomic Bohr."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.262892, 42.441286] },
+      "properties": {
+        "cartodb_id": 30,
+        "country": "Montenegro",
+        "city": "Podgorica",
+        "created_at": "2015-05-26T10:59:49Z",
+        "updated_at": "2015-05-26T11:00:18Z",
+        "info" : "Montenegro are o peșteră numită 'Peștera din Lipa' în care s-a descoperit una dintre cele mai mari colecții de fosile de urși din Europa, oferind cercetătorilor o perspectivă importantă asupra istoriei evoluției acestor animale în regiune."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.259722, 53.34777] },
+      "properties": {
+        "cartodb_id": 16,
+        "country": "Irlanda",
+        "city": "Dublin",
+        "created_at": "2015-05-26T09:28:08Z",
+        "updated_at": "2015-05-26T09:28:42Z",
+        "info" : "Irlanda a jucat un rol important în dezvoltarea nanotehnologiei și a cercetării în domeniul științei materialelor."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [44.516666, 40.18333] },
+      "properties": {
+        "cartodb_id": 48,
+        "country": "Armenia",
+        "city": "Yerevan",
+        "created_at": "2015-05-26T11:15:38Z",
+        "updated_at": "2015-05-26T11:16:04Z",
+        "info" : "Matematicianul armean Karen Uhlenbeck a fost distinsă cu Premiul Abel în 2019 pentru contribuțiile sale semnificative la teoria geometriei diferențiale și la analiza matematică, fiind prima femeie care a primit acest prestigios premiu."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [24.9375, 60.170833] },
+      "properties": {
+        "cartodb_id": 17,
+        "country": "Finlanda",
+        "city": "Helsinki",
+        "created_at": "2015-05-26T09:28:46Z",
+        "updated_at": "2015-05-26T09:29:14Z",
+        "info" : "Finlanda este cunoscută pentru cercetarea sa în domeniul biotehnologiei și a geneticii, cu contribuții semnificative la secvențierea genomului uman."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.41666, 50.08333] },
+      "properties": {
+        "cartodb_id": 31,
+        "country": "Cehia",
+        "city": "Prague",
+        "created_at": "2015-05-26T11:00:25Z",
+        "updated_at": "2015-05-26T11:01:04Z",
+        "info" : "Otto Wichterle a inventat hidrogelul, un material cu numeroase aplicații în biologie și medicină, inclusiv în fabricarea lentilelor de contact, având un impact semnificativ asupra industriei medicale și oftalmologice."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [30.523333, 50.45] },
+      "properties": {
+        "cartodb_id": 18,
+        "country": "Ucraina",
+        "city": "Kiev",
+        "created_at": "2015-05-26T09:29:19Z",
+        "updated_at": "2015-05-26T09:29:47Z",
+        "info" : "Ucraina a fost locul de naștere al celebrei fiziciene Liubov Koșcielna, care a adus contribuții notabile în studiul interacțiunilor nucleare tari în cadrul experimentelor de la CERN, deschizând noi perspective în fizica particulelor elementare."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.816, 41.326] },
+      "properties": {
+        "cartodb_id": 42,
+        "country": "Albania",
+        "city": "Tirana",
+        "created_at": "2015-05-26T11:06:36Z",
+        "updated_at": "2015-05-26T11:07:02Z",
+        "info" : "Albania găzduiește o specie rară de moluște numită 'Illyrian flat snail' (Theodoxus illyricus), care a fost studiată de biologi pentru adaptările sale la medii acvatice."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-9.139444, 38.713889] },
+      "properties": {
+        "cartodb_id": 19,
+        "country": "Portugalia",
+        "city": "Lisbon",
+        "created_at": "2015-05-26T09:29:54Z",
+        "updated_at": "2015-05-26T09:30:19Z",
+        "info" : "Matematicianul și omul de știință portughez Artur Ávila a primit Medalia Fields în 2014 pentru contribuțiile sale semnificative la teoria sistemelor dinamice, având un impact notabil asupra matematicii moderne."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-21.9333, 64.1333] },
+      "properties": {
+        "cartodb_id": 32,
+        "country": "Islanda",
+        "city": "Reykjavík",
+        "created_at": "2015-05-26T11:01:15Z",
+        "updated_at": "2015-05-26T11:01:45Z",
+        "info" : "Islanda este un laborator natural pentru studierea proceselor geologice, cum ar fi activitatea vulcanică și mișcarea plăcilor tectonice."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.508333, 46.05555] },
+      "properties": {
+        "cartodb_id": 20,
+        "country": "Slovenia",
+        "city": "Ljubljana",
+        "created_at": "2015-05-26T09:30:23Z",
+        "updated_at": "2015-05-26T09:30:54Z",
+        "info" : "Slovenul Anton Zeilinger este un fizician cu renume mondial, pionier în domeniul fizicii cuantice și al teleportării cuantice, cu contribuții semnificative la experimentele cu particule și la dezvoltarea comunicațiilor cuantice."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.1275, 51.507222] },
+      "properties": {
+        "cartodb_id": 21,
+        "country": "Marea Britanie",
+        "city": "London",
+        "created_at": "2015-05-26T09:31:05Z",
+        "updated_at": "2015-05-26T09:31:40Z",
+        "info" : "<b>Q:</b>Cine a fost Alan Turing și care a fost contribuția sa deosebită în domeniul științei și al calculului?",
+        "answer": "Alan Turing a fost un matematician, logician și criptanalist englez cunoscut pentru dezvoltarea mașinii Turing, un concept fundamental în dezvoltarea calculului și algoritmilor. Turing a jucat, de asemenea, un rol esențial în descifrarea codurilor Enigma ale Germaniei naziste în timpul celui de-Al Doilea Război Mondial, contribuind semnificativ la efortul aliat de câștigare a războiului."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.521, 47.141] },
+      "properties": {
+        "cartodb_id": 43,
+        "country": "Liechtenstein",
+        "city": "Vaduz",
+        "created_at": "2015-05-26T11:07:07Z",
+        "updated_at": "2015-05-26T11:07:34Z",
+        "info" : "Liechtenstein a investit în cercetarea în domeniul energiei regenerabile, cu un accent deosebit pe energia solară."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [24.106389, 56.948888] },
+      "properties": {
+        "cartodb_id": 33,
+        "country": "Letonia",
+        "city": "Riga",
+        "created_at": "2015-05-26T11:01:49Z",
+        "updated_at": "2015-05-26T11:02:15Z",
+        "info" : "Letonia are o tradiție în studierea ecosistemelor forestiere și a conservării pădurilor."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.98333, 45.81666] },
+      "properties": {
+        "cartodb_id": 49,
+        "country": "Croatia",
+        "city": "Zagreb",
+        "created_at": "2015-05-26T11:16:18Z",
+        "updated_at": "2015-05-26T11:16:40Z",
+        "info" : "Cercetătorii croați au jucat un rol semnificativ în dezvoltarea medicinei regenerative, inclusiv în domeniul ingineriei țesuturilor și a terapiei celulare."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.5, 41.9] },
+      "properties": {
+        "cartodb_id": 34,
+        "country": "Italia",
+        "city": "Rome",
+        "created_at": "2015-05-26T11:02:19Z",
+        "updated_at": "2015-05-26T11:02:42Z",
+        "info" : "<b>Q:Care celebru matematician italian a dezvoltat metoda notorie de rezolvare a ecuațiilor algebrice de gradul trei și patru, cunoscută sub numele de 'Tartaglia și Ferrari'?</b>",
+        "answer":"Matematicianul italian Rafael Bombelli este cunoscut pentru dezvoltarea metodei de rezolvare a ecuațiilor algebrice de gradul trei și patru, cunoscută ca 'Tartaglia și Ferrari'."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.5125, 35.89777] },
+      "properties": {
+        "cartodb_id": 44,
+        "country": "Malta",
+        "city": "Valletta",
+        "created_at": "2015-05-26T11:07:39Z",
+        "updated_at": "2015-05-26T11:08:12Z",
+        "info" : "Malta găzduiește templele megalitice de la Ħaġar Qim, care au fost construite cu aproximativ 1.000 de ani înainte de Marele piramidel din Egipt și au fost utilizate pentru observații astronomice, indicând o înțelegere temeinică a astronomiei încă din antichitate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.4473, 43.9346] },
+      "properties": {
+        "cartodb_id": 35,
+        "country": "San Marino",
+        "city": "San Marino",
+        "created_at": "2015-05-26T11:02:45Z",
+        "updated_at": "2015-05-26T11:03:10Z",
+        "info" : "San Marino are o tradiție îndelungată de promovare a cercetării medicale, iar unii cercetători din această mică țară au contribuit la dezvoltarea terapiei genice și a altor domenii ale științelor medicale."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.41666, 43.8666] },
+      "properties": {
+        "cartodb_id": 36,
+        "country": "Bosnia si Hertegovina",
+        "city": "Sarajevo",
+        "created_at": "2015-05-26T11:03:16Z",
+        "updated_at": "2015-05-26T11:03:43Z",
+        "info" : "Medicul Emir Solaković din Bosnia și Herțegovina a realizat cercetări pionierat în domeniul transplantului de organe, contribuind la dezvoltarea transplantului de măduvă osoasă."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [21.166666, 42.6666] },
+      "properties": {
+        "cartodb_id": 50,
+        "country": "Kosovo",
+        "city": "Pristina",
+        "created_at": "2015-05-26T11:17:53Z",
+        "updated_at": "2015-05-26T11:18:13Z",
+        "info" : "Kosovo a avut cercetători care au contribuit la studiul biodiversității din regiune și au descoperit specii noi de plante și animale, contribuind la cunoașterea și conservarea diversității naturale în această zonă."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.36666, 48.2] },
+      "properties": {
+        "cartodb_id": 45,
+        "country": "Austria",
+        "city": "Vienna",
+        "created_at": "2015-05-26T11:08:24Z",
+        "updated_at": "2015-05-26T11:08:47Z",
+        "info" : "Fizicianul austriac Erwin Schrödinger a dezvoltat celebra 'ecuație Schrödinger', un pilon al mecanicii cuantice."
+      }
+    }
+  ]
+}

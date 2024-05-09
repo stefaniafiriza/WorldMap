@@ -2,12 +2,32 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>WorldMap</title>
+  <title>World Map</title>
   <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/x-icon" href=".\assets\icons8-green-earth-48.png">
 </head>
 <body>
   <app-root></app-root>
+
+  <script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.4.0/firebase-app.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+  
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+      apiKey: "AIzaSyDIjqwZFtpq1fvcpr_3obkxKbf6HJ8k_c8",
+      authDomain: "worldmap-5d255.firebaseapp.com",
+      projectId: "worldmap-5d255",
+      storageBucket: "worldmap-5d255.appspot.com",
+      messagingSenderId: "62226234145",
+      appId: "1:62226234145:web:2bc98e22edb9c36e145c60"
+    };
+  
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+  </script>
 </body>
 </html>

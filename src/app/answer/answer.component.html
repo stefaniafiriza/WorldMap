@@ -1,0 +1,15 @@
+<div *ngFor="let feature of geojsonData; let i = index">
+    <ng-container *ngIf="feature.properties.info.match(nameRegex)">
+        <div class="container">
+            <div [ngClass]="{'qa': true, 'open': isAnswerOpen(i)}" (click)="toggleAnswer(i)">
+                <h3>
+                    {{ feature.properties.country }}
+                    <span class="toggle-icon">{{ getToggleIcon(i) }}</span>
+                </h3>
+            </div>
+            <div class="answer_class" *ngIf="isAnswerOpen(i)">
+                <p>{{ feature.properties.answer }}</p>
+            </div>
+        </div>
+    </ng-container>
+</div>
